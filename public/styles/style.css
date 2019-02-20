@@ -1,0 +1,10 @@
+.test {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    width: 40%;
+    align-content: center;
+}
+#head {
+    text-align: center;
+}
